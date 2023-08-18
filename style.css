@@ -5,9 +5,9 @@
 }
 
 .main_heading {
-  background-color: rgb(167, 209, 52);
+  background-color: rgb(209, 52, 52);
 }
 .paragraph {
-  background-color: green;
+  background-color: rgb(128, 0, 0);
   font-size: 4rem;
 }
